@@ -1,0 +1,101 @@
+﻿Cod Cliente;Velocidade de entrega;Nível de preço;Flexibilidade de preço;Imagem do fabricante;Serviço geral;Imagem da força de vendas;Qualidade do produto;Tamanho da empresa;Nível de uso;Nível de satisfação;Especificação de compra;Estrutura de aquisição;Tipo de indústria;Tipo de situação de compra
+1801548;4,1;0,6;6,9;4,7;2,4;2,3;5,2;Pequena;32;4,2;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova tarefa
+1797473;1,8;3,0;6,3;6,6;2,5;4,0;8,4;Grande;43;4,3;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1794983;3,4;5,2;5,7;6,0;4,3;2,7;8,2;Grande;48;5,2;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1797977;2,7;1,0;7,1;5,9;1,8;2,3;7,8;Grande;32;3,9;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1803215;6,0;0,9;9,6;7,8;3,4;4,6;4,5;Pequena;58;6,8;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1800184;1,9;3,3;7,9;4,8;2,6;1,9;9,7;Grande;45;4,4;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1797273;4,6;2,4;9,5;6,6;3,5;4,5;7,6;Pequena;46;5,8;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova tarefa
+1785012;1,3;4,2;6,2;5,1;2,8;2,2;6,9;Grande;44;4,3;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1787627;5,5;1,6;9,4;4,7;3,5;3,0;7,6;Pequena;63;5,4;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1787030;4,0;3,5;6,5;6,0;3,7;3,2;8,7;Grande;54;5,4;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1785328;2,4;1,6;8,8;4,8;2,0;2,8;5,8;Pequena;32;4,3;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova tarefa
+1798520;3,9;2,2;9,1;4,6;3,0;2,5;8,3;Pequena;47;5,0;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra modificada
+1787801;2,8;1,4;8,1;3,8;2,1;1,4;6,6;Grande;39;4,4;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1790579;3,7;1,5;8,6;5,7;2,7;3,7;6,7;Pequena;38;5,0;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova tarefa
+1787667;4,7;1,3;9,9;6,7;3,0;2,6;6,8;Pequena;54;5,9;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1786452;3,4;2,0;9,7;4,7;2,7;1,7;4,8;Pequena;49;4,7;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1798191;3,2;4,1;5,7;5,1;3,6;2,9;6,2;Pequena;38;4,4;uso de especificações de compra;Centralizada;Açougue Rua;Nova compra modificada
+1792764;4,9;1,8;7,7;4,3;3,4;1,5;5,9;Pequena;40;5,6;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1802239;5,3;1,4;9,7;6,1;3,3;3,9;6,8;Pequena;54;5,9;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1789792;4,7;1,3;9,9;6,7;3,0;2,6;6,8;Pequena;55;6,0;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1800014;3,3;0,9;8,6;4,0;2,1;1,8;6,3;Pequena;41;4,5;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1797410;3,4;0,4;8,3;2,5;1,2;1,7;5,2;Pequena;35;3,3;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova tarefa
+1799170;3,0;4,0;9,1;7,1;3,5;3,4;8,4;Pequena;55;5,2;uso de especificações de compra;Centralizada;Açougue Supermercado;Nova compra simples
+1785234;2,4;1,5;6,7;4,8;1,9;2,5;7,2;Grande;36;3,7;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1793663;5,1;1,4;8,7;4,8;3,3;2,6;3,8;Pequena;49;4,9;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1801354;4,6;2,1;7,9;5,8;3,4;2,8;4,7;Pequena;49;5,9;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1785656;2,4;1,5;6,6;4,8;1,9;2,5;7,2;Grande;36;3,7;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1800005;5,2;1,3;9,7;6,1;3,2;3,9;6,7;Pequena;54;5,8;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1797956;3,5;2,8;9,9;3,5;3,1;1,7;5,4;Pequena;49;5,4;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1789581;4,1;3,7;5,9;5,5;3,9;3,0;8,4;Grande;46;5,1;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1788118;3,0;3,2;6,0;5,3;3,1;3,0;8,0;Grande;43;3,3;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1799360;2,8;3,8;8,9;6,9;3,3;3,2;8,2;Pequena;53;5,0;uso de especificações de compra;Centralizada;Açougue Supermercado;Nova compra simples
+1802707;5,2;2,0;9,3;5,9;3,7;2,4;4,6;Pequena;60;6,1;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1790128;3,4;3,7;6,4;5,7;3,5;3,4;8,4;Grande;47,3;3,8;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1803361;2,4;1,0;7,7;3,4;1,7;1,1;6,2;Grande;35;4,1;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1799712;1,8;3,3;7,5;4,5;2,5;2,4;7,6;Grande;39;3,6;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1795899;3,6;4,0;5,8;5,8;3,7;2,5;9,3;Grande;44;4,8;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1794113;4,0;0,9;9,1;5,4;2,4;2,6;7,3;Pequena;46;5,1;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1795112;0,0;2,1;6,9;5,4;1,1;2,6;8,9;Grande;29;3,9;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1803173;2,4;2,0;6,4;4,5;2,1;2,2;8,8;Grande;28;3,3;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1789995;1,9;3,4;7,6;4,6;2,6;2,5;7,7;Grande;40;3,7;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1787092;5,9;0,9;9,6;7,8;3,4;4,6;4,5;Pequena;58;6,7;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1794677;4,9;2,3;9,3;4,5;3,6;1,3;6,2;Pequena;53;5,9;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1797954;5,0;1,3;8,6;4,7;3,1;2,5;3,7;Pequena;48;4,8;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1798634;2,0;2,6;6,5;3,7;2,4;1,7;8,5;Grande;38;3,2;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1794330;5,0;2,5;9,4;4,6;3,7;1,4;6,3;Pequena;54;6,0;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1791163;3,1;1,9;10,0;4,5;2,6;3,2;3,8;Pequena;55;4,9;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1799657;3,4;3,9;5,6;5,6;3,6;2,3;9,1;Grande;43;4,7;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1793350;5,8;0,2;8,8;4,5;3,0;2,4;6,7;Pequena;57;4,9;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1793519;5,4;2,1;8,0;3,0;3,8;1,4;5,2;Pequena;53;3,8;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1788344;3,7;0,7;8,2;6,0;2,1;2,5;5,2;Pequena;41;5,0;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1788689;2,6;4,8;8,2;5,0;3,6;2,5;9,0;Grande;53;5,2;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1802995;4,5;4,1;6,3;5,9;4,3;3,4;8,8;Grande;50;5,5;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1791191;2,8;2,4;6,7;4,9;2,5;2,6;9,2;Grande;32;3,7;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1798079;3,8;0,8;8,7;2,9;1,6;2,1;5,6;Pequena;39;3,7;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova tarefa
+1799780;2,9;2,6;7,7;7,0;2,8;3,6;7,7;Pequena;47;4,2;uso de especificações de compra;Centralizada;Açougue Rua;Nova compra modificada
+1803270;4,9;4,4;7,4;6,9;4,6;4,0;9,6;Grande;62;6,2;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1794743;5,4;2,5;9,6;5,5;4,0;3,0;7,7;Pequena;65;6,0;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1786317;4,3;1,8;7,6;5,4;3,1;2,5;4,4;Pequena;46;5,6;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1791676;2,3;4,5;8,0;4,7;3,3;2,2;8,7;Grande;50;5,0;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1797123;3,1;1,9;9,9;4,5;2,6;3,1;3,8;Pequena;54;4,8;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1785224;5,1;1,9;9,2;5,8;3,6;2,3;4,5;Pequena;60;6,1;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1790766;4,1;1,1;9,3;5,5;2,5;2,7;7,4;Pequena;47;5,3;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1803304;3,0;3,8;5,5;4,9;3,4;2,6;6,0;Pequena;36;4,2;uso de especificações de compra;Centralizada;Açougue Rua;Nova compra modificada
+1794121;1,1;2,0;7,2;4,7;1,6;3,2;10,0;Grande;40;3,4;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1796260;3,7;1,4;9,0;4,5;2,6;2,3;6,8;Pequena;45;4,9;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1801238;4,2;2,5;9,2;6,2;3,3;3,9;7,3;Pequena;59;6,0;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1790571;1,6;4,5;6,4;5,3;3,0;2,5;7,1;Grande;46;4,5;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1788377;5,3;1,7;8,5;3,7;3,5;1,9;4,8;Pequena;58;4,3;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1787489;2,3;3,7;8,3;5,2;3,0;2,3;9,1;Grande;49;4,8;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1802002;3,6;5,4;5,9;6,2;4,5;2,9;8,4;Grande;50;5,4;análise do valor total;Centralizada;Açougue Rua;Nova compra modificada
+1790635;5,6;2,2;8,2;3,1;4,0;1,6;5,3;Pequena;55;3,9;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1787708;3,6;2,2;9,9;4,8;2,9;1,9;4,9;Pequena;51;4,9;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1798159;5,2;1,3;9,1;4,5;3,3;2,7;7,3;Pequena;60;5,1;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1799281;3,0;2,0;6,6;6,6;2,4;2,7;8,2;Grande;41;4,1;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1785717;4,2;2,4;9,4;4,9;3,2;2,7;8,5;Pequena;49;5,2;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra modificada
+1787680;3,8;0,8;8,3;6,1;2,2;2,6;5,3;Pequena;42;5,1;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1793711;3,3;2,6;9,7;3,3;2,9;1,5;5,2;Pequena;47;5,1;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1794457;1,0;1,9;7,1;4,5;1,5;3,1;9,9;Grande;39;3,3;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1800285;4,5;1,6;8,7;4,6;3,1;2,1;6,8;Pequena;56;5,1;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1792832;5,5;1,8;8,7;3,8;3,6;2,1;4,9;Pequena;59;4,5;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1796033;3,4;4,6;5,5;8,2;4,0;4,4;6,3;Pequena;47,3;5,6;uso de especificações de compra;Centralizada;Açougue Rua;Nova compra modificada
+1790298;1,6;2,8;6,1;6,4;2,3;3,8;8,2;Grande;41;4,1;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1797283;2,3;3,7;7,6;5,0;3,0;2,5;7,4;Pequena;37;4,4;uso de especificações de compra;Centralizada;Açougue Supermercado;Nova tarefa
+1795093;2,6;3,0;8,5;6,0;2,8;2,8;6,8;Grande;53;5,6;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1785627;2,5;3,1;7,0;4,2;2,8;2,2;9,0;Grande;43;3,7;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1787021;2,4;2,9;8,4;5,9;2,7;2,7;6,7;Grande;51;5,5;análise do valor total;Centralizada;Açougue Supermercado;Nova compra modificada
+1799538;2,1;3,5;7,4;4,8;2,8;2,3;7,2;Pequena;36;4,3;uso de especificações de compra;Centralizada;Açougue Supermercado;Nova tarefa
+1796564;2,9;1,2;7,3;6,1;2,0;2,5;8,0;Grande;34;4,0;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1798315;4,3;2,5;9,3;6,3;3,4;4,0;7,4;Pequena;60;6,1;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra simples
+1785029;3,0;2,8;7,8;7,1;3,0;3,8;7,9;Pequena;49;4,4;uso de especificações de compra;Centralizada;Açougue Rua;Nova compra modificada
+1794800;4,8;1,7;7,6;4,2;3,3;1,4;5,8;Pequena;39;5,5;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova compra modificada
+1793589;3,1;4,2;5,1;7,8;3,6;4,0;5,9;Pequena;43;5,2;uso de especificações de compra;Centralizada;Açougue Rua;Nova compra modificada
+1802761;1,9;2,7;5,0;4,9;2,2;2,5;8,2;Grande;36;3,6;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1798906;4,0;0,5;6,7;4,5;2,2;2,1;5,0;Pequena;31;4,0;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova tarefa
+1802579;0,6;1,6;6,4;5,0;0,7;2,1;8,4;Grande;25;3,4;análise do valor total;Centralizada;Açougue Rua;Nova tarefa
+1795337;6,1;0,5;9,2;4,8;3,3;2,8;7,1;Pequena;60;5,2;uso de especificações de compra;Não-centralizada;Açougue Rua;Nova compra simples
+1787363;2,0;2,8;5,2;5,0;2,4;2,7;8,4;Grande;38;3,7;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1789253;3,1;2,2;6,7;6,8;2,6;2,9;8,4;Grande;42;4,3;análise do valor total;Centralizada;Açougue Supermercado;Nova tarefa
+1790466;2,5;1,8;9,0;5,0;2,2;3,0;6,0;Pequena;33;4,4;uso de especificações de compra;Não-centralizada;Açougue Supermercado;Nova tarefa
